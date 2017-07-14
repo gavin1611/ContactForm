@@ -1,8 +1,6 @@
  <?php
 class Validation
 {
-	private $awsAccessKey = 'AKIAJ2V2CSWZJOUFBXOA';
-	private $awsSecretKey = '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';
 	public $_allow = array();
 	public $_content_type = "application/json";
 	public $_request = array();	
