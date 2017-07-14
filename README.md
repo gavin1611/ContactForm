@@ -26,7 +26,12 @@ Appropriate validate header,cleanInputs to prevent SQL injection have been craet
 
 Accounts have been created with Mailgun and Airtable. 
 
-Email address gavin.lobo16@gmail.com(Customer Support Team)
+Email address gavinandre2007@gmail.com(Customer Support Team)
+On form submit each of the attributes is send the backend encode in a JSON Object
+which is then decoded on the server in function contact_info
+The details are interpreted into the respective functions and SQL statement.
+
+
 
 The code has been formatted and comments at appropriate places to ensure smooth understanding of the code.
 
