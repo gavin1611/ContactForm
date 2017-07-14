@@ -1,4 +1,4 @@
-This project uses slim micro framework for quick routing libraries. And building a scalable application in the short time period of a day.
+This project uses slim micro framework for quick routing libraries. And building a scalable application in a short time period of a day.
 
 To run this project please download Apache, PHP and MySQL(optional) if database is needed.
 
